@@ -6,6 +6,3 @@ from figma deign ti real life website
 
 
 and it is a great expreance to make this for a great company
-
-
-and just try to make from the small to the bigger man
